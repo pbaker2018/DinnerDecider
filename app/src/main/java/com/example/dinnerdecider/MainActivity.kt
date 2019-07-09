@@ -3,6 +3,7 @@ package com.example.dinnerdecider
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.boss.dinnerdecider.R
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
