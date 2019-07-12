@@ -9,7 +9,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val foodList = arrayListOf("Pasta Remoli", "Wagamama", "Zizzi", "Pizza Express", "Nandos", "GBK", "Calabash", "Hemalaya")
+    val foodList = arrayListOf("Pizza", "Sandwich")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
