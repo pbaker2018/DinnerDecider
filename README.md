@@ -15,8 +15,13 @@ https://youtu.be/4B8OJRce0mA
 
 ```
 
-This app is available on the Google Play store. Just search for:
+### Purchase App on Google Play Store (for free)
 
-DinnerDecider and look out for this icon: 
+This app *is available* on the *Google Play store*. Copy and paste the following url to download it:
 
-![test_icon](dinner_dec.png) 
+```
+
+https://play.google.com/store/apps/details?id=com.boss.dinnerdecider
+
+```
+
