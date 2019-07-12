@@ -17,4 +17,6 @@ https://youtu.be/4B8OJRce0mA
 
 This app is available on the Google Play store. Just search for:
 
-DinnerDecider on Play Store.jpg
+DinnerDecider and look out for this icon: 
+
+![test_icon](dinner_dec.png) 
